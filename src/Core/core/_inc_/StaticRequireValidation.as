@@ -1,0 +1,1 @@
+if (_required) throw new Error(String(prototype.constructor).replace('[class ', '').replace(']', '') + ' can only be initialized once via  >  _.require('+String(prototype.constructor).replace('[class ', '').replace(']', '')+')  <');

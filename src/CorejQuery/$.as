@@ -1,0 +1,1 @@
+﻿package{	// jQuery shorthand method		import core.jquery.jQuery;		public function $(obj:*, ease:* = null):jQuery	{		return jQuery.getInstance(obj, ease);	}}

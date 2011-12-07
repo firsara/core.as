@@ -1,0 +1,1 @@
+﻿package core.vars{	public class MoveClipFriction	{		public static var defaultMove:Number = 1;		public static var defaultRelease:Number = 1;				public var move:Number;		public var release:Number;				public function MoveClipFriction()		{			move = defaultMove;      release = defaultRelease;		}			}}

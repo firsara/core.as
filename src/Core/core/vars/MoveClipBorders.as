@@ -1,0 +1,1 @@
+﻿package core.vars{	public class MoveClipBorders	{		public var x:Array;		public var y:Array;				public function MoveClipBorders()		{			x = [-1, -1];      y = [-1, -1];		}			}}

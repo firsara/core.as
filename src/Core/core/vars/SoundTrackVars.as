@@ -1,0 +1,1 @@
+﻿package core.vars{	public class SoundTrackVars	{		public var loop:Boolean;		public var volume:Number;		public var fade:Array;		public var delay:Number;				public function SoundTrackVars()		{			loop = false;			volume = 1;			fade = [1, 1];			delay = 0;		}			}}
